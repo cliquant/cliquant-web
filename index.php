@@ -12,7 +12,7 @@
 <body>
 <div class="background"></div>
 <div class="title">
-  <a href="/lol" style="text-decoration: none;"><h1>Cliquant</h1></a>
+  <a href="/lol.html" style="text-decoration: none;"><h1>Cliquant</h1></a>
   <h4><?php  echo $_SERVER['REMOTE_ADDR'];  ?></h4>
   <h3>down me if you can</h3>
 </div>
